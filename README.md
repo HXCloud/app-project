@@ -1,2 +1,2 @@
 # app-project
-app项目
+短视频推荐app项目
